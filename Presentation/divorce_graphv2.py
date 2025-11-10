@@ -1,4 +1,4 @@
-#adding a line of best fit to the orgiginakl divorce graph!
+#adding a line of best fit to the orgiginakl divorce graph!!
 
 import numpy as np
 import matplotlib.pyplot as plt
