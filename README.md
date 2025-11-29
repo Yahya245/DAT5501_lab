@@ -1,2 +1,2 @@
-Portforlio for DAT5501
+(DAT5501)
 This portfolio showcases the work I have completed for the Data Analysis module at university, highlighting the skills and techniques I have developed throughout the course. It includes a collection of practical exercises and projects that demonstrate my ability to apply analytical methods to real datasets. Alongside my academic work, I have also included a few personal projects where I explored with coee, further strengthening my technical skills and passion for data analysis.
