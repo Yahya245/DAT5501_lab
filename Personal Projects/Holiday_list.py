@@ -1,4 +1,4 @@
-
+holidays = []
 
 while True:
     print("\n--- Add a New Holiday ---")
